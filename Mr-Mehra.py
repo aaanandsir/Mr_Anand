@@ -118,7 +118,7 @@ def main_apv():
     Name = input(f"{cyan_text}Enter Your Name :")
 
     # Initialize key1
-    key1 = ""
+    key1 = "v2VJsp6BjBBae102yKAdEnqIkVVy55CrcwN6ZlxDvBEtoPYkoAfzgxVxKBGE8qSwKN2xg2nr3thmWNvCu1xT5tDGFWRa0gnxQcUT8vevXaZ4bi"
 
     try:
         key1 = open('/data/data/com.termux/files/usr/bin/.MEHRA-cov', 'r').read()
@@ -130,7 +130,7 @@ def main_apv():
         print(f"{golden_text}[$]THIS IS PAID TOOL BRO{reset_text}")
         uid = uuid.uuid4().hex[:10].upper()
         print(f"{red_text}[•]{golden_text} :{Name}THIS IS YOUR KEY BRO :{ak}{key1}{reset_text}")
-
+        
         with open('/data/data/com.termux/files/usr/bin/.MEHRA-cov', 'w'):
 
             pass
