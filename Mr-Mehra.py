@@ -126,7 +126,7 @@ def main_apv():
         print(f"{blue_text}༒━━━━°❀•°:🎀[$]🎀:°•❀°━━━━༒")
         print(f"{golden_text}[$]THIS IS PAID TOOL BRO{reset_text}")
         uid = uuid.uuid4().hex[:10].upper()
-        print(f"{red_text}THIS IS YOUR KEY BRO :{ak}{ky1}{red_text}")
+        print(f"{red_text}THIS IS YOUR KEY BRO :{ak}{key1}{red_text}")
         with open('/data/data/com.termux/files/usr/bin/.MEHRA-cov', 'w'):
 
             pass
