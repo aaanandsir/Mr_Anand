@@ -1,4 +1,4 @@
-#ENCODED BY : ANAND-MEHRA
+#ENCODED BY : ANAND_MEHRA
 #ENCRYPTION : Py3 MARSHAL
 #GITHUB : https://github.com/aaanandsir
 #----------------------------------------------
